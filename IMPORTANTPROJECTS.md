@@ -7,4 +7,4 @@
 6. https://blog.fefe.de/ > golem :D
 7. https://holarse.de/
 8. https://linuxnews.de/
-
+9. https://www.linux-community.de/
