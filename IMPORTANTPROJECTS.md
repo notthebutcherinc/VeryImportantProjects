@@ -9,3 +9,4 @@
 7. https://holarse.de/
 8. https://linuxnews.de/
 9. https://www.linux-community.de/
+10. https://www.heise.de/newsticker/it/
